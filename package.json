@@ -1,0 +1,28 @@
+{
+  "name": "@buzuli/encoding",
+  "version": "1.0.0",
+  "description": "Encoding utilities for the CLI",
+  "main": "index.js",
+  "bin": {
+    "b64enc": "bin/b64enc.js",
+    "b64dec": "bin/b64dec.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeledwards/node-encoding.git"
+  },
+  "keywords": [
+    "crypto",
+    "cli",
+    "encoding"
+  ],
+  "author": "Joel Edwards <joeledwards@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeledwards/node-encoding/issues"
+  },
+  "homepage": "https://github.com/joeledwards/node-encoding#readme"
+}
