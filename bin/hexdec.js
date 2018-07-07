@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 require('../lib/transcoder')({
-  format: 'base64',
-  modulus: 4,
+  format: 'hex',
+  modulus: 2,
   decoding: true
 })({
   input: process.stdin,

@@ -5,7 +5,9 @@
   "main": "index.js",
   "bin": {
     "b64enc": "bin/b64enc.js",
-    "b64dec": "bin/b64dec.js"
+    "b64dec": "bin/b64dec.js",
+    "hexenc": "bin/hexenc.js",
+    "hexdec": "bin/hexdec.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
