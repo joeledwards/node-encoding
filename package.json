@@ -6,6 +6,8 @@
   "bin": {
     "b64enc": "bin/b64enc.js",
     "b64dec": "bin/b64dec.js",
+    "gzenc": "bin/gzenc.js",
+    "gzdec": "bin/gzdec.js",
     "hexenc": "bin/hexenc.js",
     "hexdec": "bin/hexdec.js"
   },
